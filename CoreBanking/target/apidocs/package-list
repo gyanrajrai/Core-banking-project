@@ -1,0 +1,5 @@
+com.mycompany.corebanking.controller
+com.mycompany.corebanking.dao
+com.mycompany.corebanking.dao.impl
+com.mycompany.corebanking.database
+com.mycompany.corebanking.entity
